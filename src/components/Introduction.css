@@ -1,0 +1,18 @@
+.profil {
+    width: 100%;
+}
+
+.introduction {
+    background-color: #08101d;
+    color:#fff;
+    display: flex;
+    align-items: center;
+}
+
+@media(min-width:1200px) {
+    .introduction {
+        padding: 0 183px 0 300px;
+    }
+}
+
+
