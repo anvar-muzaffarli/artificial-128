@@ -1,0 +1,38 @@
+.kart-bg {
+    background: #0A121F;
+
+}
+
+.kart {
+    width: 362px;
+    /* height: 389px; */
+    padding: 47px 30px 30px;
+    margin-right: 30px;
+    transition: all 1.4s ease;
+}
+
+.kart:hover {
+    box-shadow: 10px 15px 25px rgba(255,255,0,.8);
+}
+
+.kart img {
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 47px;
+}
+
+.kart h3 {
+    font-size: 20px;
+    text-align: center;
+}
+
+.kart p {
+    text-align: center;
+    opacity: .7;
+}
+
+.icon-olcusu {
+    width: 93px;
+    height: 97.74px;
+    object-fit: cover;
+}
